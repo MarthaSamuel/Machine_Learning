@@ -1,5 +1,6 @@
 
 # 01  regression, used to predict. source 01-08: @sentdex
+# this code forecasts cost
 
 
 import pandas as pd
